@@ -1,0 +1,10 @@
+[package]
+name = "debug-rs"
+authors = ["Ta Quang Trung"]
+version = "0.0.1"
+edition = "2021"
+
+[features]
+linting = []
+
+[dependencies]
